@@ -1,0 +1,139 @@
+{
+  "jsonrpc": "2.0",
+  "id": null,
+  "result": {
+    "length": 5,
+    "records": [
+      {
+        "id": 15,
+        "employee_id": [
+          1,
+          "Mitchell Admin"
+        ],
+        "department_id": [
+          3,
+          "Management"
+        ],
+        "check_in": "2023-02-22 13:36:29",
+        "check_out": "2023-02-22 13:36:32",
+        "worked_hours": 0.0008333333333333334,
+        "__last_update": "2023-02-22 13:36:32",
+        "display_name": "Mitchell Admin from 02/22/2023 14:36:29 to 02/22/2023 14:36:32",
+        "create_uid": [
+          2,
+          "Mitchell Admin"
+        ],
+        "create_date": "2023-02-22 13:36:29",
+        "write_uid": [
+          2,
+          "Mitchell Admin"
+        ],
+        "write_date": "2023-02-22 13:36:32"
+      },
+      {
+        "id": 14,
+        "employee_id": [
+          1,
+          "Mitchell Admin"
+        ],
+        "department_id": [
+          3,
+          "Management"
+        ],
+        "check_in": "2023-02-22 13:36:24",
+        "check_out": "2023-02-22 13:36:27",
+        "worked_hours": 0.0008333333333333334,
+        "__last_update": "2023-02-22 13:36:27",
+        "display_name": "Mitchell Admin from 02/22/2023 14:36:24 to 02/22/2023 14:36:27",
+        "create_uid": [
+          2,
+          "Mitchell Admin"
+        ],
+        "create_date": "2023-02-22 13:36:24",
+        "write_uid": [
+          2,
+          "Mitchell Admin"
+        ],
+        "write_date": "2023-02-22 13:36:27"
+      },
+      {
+        "id": 13,
+        "employee_id": [
+          1,
+          "Mitchell Admin"
+        ],
+        "department_id": [
+          3,
+          "Management"
+        ],
+        "check_in": "2023-02-19 13:36:15",
+        "check_out": "2023-02-19 14:36:21",
+        "worked_hours": 1.0016666666666667,
+        "__last_update": "2023-02-22 13:37:05",
+        "display_name": "Mitchell Admin from 02/19/2023 14:36:15 to 02/19/2023 15:36:21",
+        "create_uid": [
+          2,
+          "Mitchell Admin"
+        ],
+        "create_date": "2023-02-22 13:36:15",
+        "write_uid": [
+          2,
+          "Mitchell Admin"
+        ],
+        "write_date": "2023-02-22 13:37:05"
+      },
+      {
+        "id": 1,
+        "employee_id": [
+          1,
+          "Mitchell Admin"
+        ],
+        "department_id": [
+          3,
+          "Management"
+        ],
+        "check_in": "2023-01-21 08:00:24",
+        "check_out": "2023-01-21 12:01:33",
+        "worked_hours": 4.019166666666667,
+        "__last_update": "2023-02-22 10:52:12",
+        "display_name": "Mitchell Admin from 01/21/2023 09:00:24 to 01/21/2023 13:01:33",
+        "create_uid": [
+          1,
+          "OdooBot"
+        ],
+        "create_date": "2023-02-22 10:52:12",
+        "write_uid": [
+          1,
+          "OdooBot"
+        ],
+        "write_date": "2023-02-22 10:52:12"
+      },
+      {
+        "id": 2,
+        "employee_id": [
+          1,
+          "Mitchell Admin"
+        ],
+        "department_id": [
+          3,
+          "Management"
+        ],
+        "check_in": "2023-01-21 13:02:58",
+        "check_out": "2023-01-21 18:09:22",
+        "worked_hours": 5.1066666666666665,
+        "__last_update": "2023-02-22 10:52:12",
+        "display_name": "Mitchell Admin from 01/21/2023 14:02:58 to 01/21/2023 19:09:22",
+        "create_uid": [
+          1,
+          "OdooBot"
+        ],
+        "create_date": "2023-02-22 10:52:12",
+        "write_uid": [
+          1,
+          "OdooBot"
+        ],
+        "write_date": "2023-02-22 10:52:12"
+      }
+    ]
+  }
+}
