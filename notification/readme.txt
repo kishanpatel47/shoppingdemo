@@ -1,0 +1,1 @@
+./gradlew signingReport in signingReport create in gradlew signingReport
